@@ -1,5 +1,5 @@
 # -IDENTIFYING-AND-CATEGORIZING-OFFENSIVE-LANGUAGES-ON-TWITTER-USING-MACHINE-LEARNING
-# Identifying and Categorizing Offensive Language on Twitter
+
 
 Offensive language, hate speech and cyberbullying have become increasing more pervasive in social media. Individuals frequently take advantage of the perceived anonymity on social media platforms, to engage in brash and disrespectful  behaviour  that  many  of  them  would not  consider  in  real  life. The  goal  of  this project  is  to  use  a  hierarchical  model  to  not only  identify  tweets/messages  with  offensive language but categorize the type and the target of offensive messages on social media.
 
