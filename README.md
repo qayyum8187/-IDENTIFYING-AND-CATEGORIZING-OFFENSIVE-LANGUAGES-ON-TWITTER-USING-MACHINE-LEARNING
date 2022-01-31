@@ -20,8 +20,4 @@ wget http://nlp.stanford.edu/data/glove.twitter.27B.zip
 	- [CNN Text (Simplified)](/notebooks/CNNv1.ipynb): Simplified version of CNN Text proposed by Kim with one single input channel
 	- [CNN Text (OG)](/notebooks/CNNv2.ipynb): Original architecture of CNN Text by Kim with multichannel inputs
 
-- Full report for implementation details, results, conclusion [here](/documents/Report.pdf)
-
-# FAQ
-Please reach out to arsaikia@iu.edu for feedback and suggestions
 
